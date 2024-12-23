@@ -12,7 +12,7 @@
 1.tar.bz2
 1.tar.gz
 1.txt
-1.zip
+0.zip
 10-flannel.conf
 111.php
 123.php
