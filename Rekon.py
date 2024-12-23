@@ -131,7 +131,7 @@ def dnsLookUp(Input):
     # Strip any leading/trailing whitespace from the input
     Input = Input.strip()
     # Define your API key
-    api_key = "at_UfUAFMR13dZh3DpXCnyDfT4rIygUX"
+    api_key = "Your_API_Key"
 
     # Check if the input is a valid URL
     if validators.url(Input):
@@ -163,7 +163,7 @@ def iplookup(Ip):
         # Validate the IP address
         if ipaddress.ip_address(Ip):
             # Define the API key for the reverse IP lookup service
-            api_key = '47442a4fcdaf35c60d9ddd52c8791971e114f926'  # API key
+            api_key = "Your_API_Key"  # API key
             
             # Construct the API URL with the IP address, API key, and output format
             url = f'https://api.viewdns.info/reverseip/?host={Ip}&apikey={api_key}&output=json'
