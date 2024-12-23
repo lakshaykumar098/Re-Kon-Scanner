@@ -1,5 +1,0 @@
-python-whois
-python-nmap
-colorama
-requests
-validators
