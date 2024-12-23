@@ -131,7 +131,7 @@ def dnsLookUp(Input):
     # Strip any leading/trailing whitespace from the input
     Input = Input.strip()
     # Define your API key
-    api_key = "Your_API_Key"
+    api_key = "Your_API_Key" # Api key
 
     # Check if the input is a valid URL
     if validators.url(Input):
