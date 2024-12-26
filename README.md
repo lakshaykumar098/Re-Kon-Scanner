@@ -1,6 +1,6 @@
 # RE-KON TOOL
 
-**RE-KON TOOL**is a powerful and versatile reconnaissance toolkit designed for cybersecurity professionals and enthusiasts. This tool integrates various functionalities for efficient information gathering and vulnerability assessment.
+**RE-KON TOOL** is a powerful and versatile reconnaissance toolkit designed for cybersecurity professionals and enthusiasts. This tool integrates various functionalities for efficient information gathering and vulnerability assessment.
 
 ---
 
